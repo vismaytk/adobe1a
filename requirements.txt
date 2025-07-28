@@ -1,0 +1,6 @@
+# requirements.txt
+# Adobe Hackathon Solution Dependencies - Round 1A Only
+# All dependencies must work offline and meet size constraints
+
+PyMuPDF==1.23.8
+numpy==1.26.4 
